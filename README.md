@@ -59,15 +59,15 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AchLim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchLim&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AchLim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchLim&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AchLim&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AchLim&theme=dark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -76,16 +76,17 @@
 <div align="center">
   
   [![AchLim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AchLim&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </div>
 
 ## 🔥 Featured Projects
 
 <div align="center">
   
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AchLim&repo=Book-Lending-System&theme=tokyonight)](https://github.com/AchLim/Book-Lending-System)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AchLim&repo=BlueWashWeb&theme=tokyonight)](https://github.com/AchLim/BlueWashWeb)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AchLim&repo=BlueWashAPI&theme=tokyonight)](https://github.com/AchLim/BlueWashAPI)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AchLim&repo=lecture-cap-api&theme=tokyonight)](https://github.com/AchLim/lecture-cap-api)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AchLim&repo=Book-Lending-System&theme=dark)](https://github.com/AchLim/Book-Lending-System)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AchLim&repo=lecture-cap-api&theme=dark)](https://github.com/AchLim/lecture-cap-api)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AchLim&repo=BlueWashWeb&theme=dark)](https://github.com/AchLim/BlueWashWeb)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AchLim&repo=BlueWashAPI&theme=dark)](https://github.com/AchLim/BlueWashAPI)
   
 </div>
 
@@ -93,7 +94,7 @@
 
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
 </div>
 
